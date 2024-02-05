@@ -6,7 +6,11 @@ I'm just folowing a youtube channel on hnow to build github profile. This is the
 
 7+ years of engineering education have shaped me into a systematic, inquisitive, and philosophical thinker. Coupled with introspection, further evolving my professional repertoire into that of an empathetic communicator, a skilled planner, and an adept problem solver. Confident in leadership, and yet humble in the journey of lifelong learning. With courage and insights from a diverse background, I seek to continue gaining wisdom, become a positive impact to those around me, and make the world a better place.
 
-Skills: SQL / Python / Spark / Tableau
+## Skills and Experience
+* 🗒️ SQL
+* 🐍 Python
+* :electron: Spark
+* 📈 Tableau
 
 - 🔭 I’m currently working on Advanced Spark Analytics 
 - 🌱 I’m currently learning Big Data Analytics 
