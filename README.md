@@ -1,6 +1,6 @@
 ### Hi there 👋, sleazism
 #### Engineer and Data Scientist
-![Engineer and Data Scientist]([https://media.licdn.com/dms/image/C5616AQFUd0yqgVxMDA/profile-displaybackgroundimage-shrink_350_1400/0/1660174666276?e=1712793600&v=beta&t=ThAuNm8BYpUAFeAsEUrB-lRKSHiXu77Y1z3t6_7TQKo](https://github.com/sleazism/sleazism01/blob/main/Artillery%20lvl%2070%20skill%20build.png))
+![Engineer and Data Scientist](https://github.com/sleazism/sleazism01/blob/main/Artillery%20lvl%2070%20skill%20build.png)
 
 I'm just folowing a youtube channel on hnow to build github profile. This is the first one, I will try multiple ones and see which one suits me. 
 
