@@ -1,6 +1,12 @@
 Hi 👋 My name is Ben
 ## Engineer|Data Scientist
-7+ years of engineering education have shaped me into a systematic, inquisitive, and philosophical thinker. Coupled with introspection, further evolving my professional repertoire into that of an empathetic communicator, a skilled planner, and an adept problem solver. Confident in leadership, and yet humble in the journey of lifelong learning. With courage and insights from a diverse background, I seek to continue gaining wisdom, become a positive impact to those around me, and make the world a better place.
+7+ years of engineering education have shaped me into a systematic, inquisitive, and philosophical thinker. 
+
+Coupled with introspection, further evolving my professional repertoire into that of an empathetic communicator, a skilled planner, and an adept problem solver. 
+
+Confident in leadership, and yet humble in the journey of lifelong learning. 
+
+With courage and insights from a diverse background, I seek to continue gaining wisdom, become a positive impact to those around me, and make the world a better place.
 
 ## Skills and Experience
 * 🗒️ SQL
