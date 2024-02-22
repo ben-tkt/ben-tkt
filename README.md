@@ -17,7 +17,7 @@ With courage and insights from a diverse background, I seek to continue gaining 
 - 🌱 I’m currently learning Big Data Analytics 
 - 🤔 I’m looking for help with getting real work experience 
 - 📫 How to reach me: bentkt94@gmail.com
-- ⚡ Fun fact: I used analytics to plan my life 
+- ⚡ Fun fact: I used analytics to plan my games
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sleazism)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ben-tan-88940a182//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/sleazism)  
