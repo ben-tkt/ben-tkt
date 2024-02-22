@@ -24,8 +24,5 @@ With courage and insights from a diverse background, I seek to continue gaining 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-tkt&show_icons=true)  
 
-## My Projects
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ben-tkt&repo=Recommendation-Models&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ben-tkt&repo=Classification-Models&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ben-tkt&repo=Exploratory-Data-Analysis&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> 
 
