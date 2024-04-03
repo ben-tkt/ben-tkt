@@ -8,11 +8,11 @@ Confident in leadership, and yet humble in the journey of lifelong learning.
 
 With courage and insights from a diverse background, I seek to continue gaining wisdom, become a positive impact to those around me, and make the world a better place.
 
-- 🔭 I’m currently working on MLDL Projects
-- 🌱 I’m currently learning NLP 
-- 🤔 I’m looking for help with getting real work experience 
-- 📫 How to reach me: bentkt94@gmail.com
-- ⚡ Fun fact: I used analytics to plan my games
+🔭 I’m currently working on MLDL Projects
+🌱 I’m currently learning NLP 
+🤔 I’m looking for help with getting real work experience 
+📫 How to reach me: bentkt94@gmail.com
+⚡ Fun fact: I used analytics to plan my games
 
 ## Skills & Experience
 * Data & Statistical Analytics
