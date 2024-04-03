@@ -1,5 +1,5 @@
 Hi 👋 My name is Ben
-## Engineer | Data Scientist
+## Process Engineer | Data Scientist
 7+ years of engineering education have shaped me into a systematic, inquisitive, and philosophical thinker. 
 
 Coupled with introspection, further evolving my professional repertoire into that of an empathetic communicator, a skilled planner, and an adept problem solver. 
