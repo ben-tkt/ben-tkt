@@ -24,11 +24,11 @@ Confident in leadership, and yet humble in the journey of lifelong learning.
 
 With courage and insights from a diverse background, I seek to continue gaining wisdom, become a positive impact to those around me, and make the world a better place.
 
-- 🔭 I’m currently working on MLDL Projects
-- 🌱 I’m currently learning NLP 
-- 🤔 I’m looking for help with getting real work experience 
-- 📫 How to reach me: bentkt94@gmail.com
+- 🔭 I’m working as a Process Engineer in the pharmaceutical industry  
+- 🌱 I’m currently learning deep learning hyperparameter tuning 
+- 🤔 I’m looking for work opportunities involving Data Science
 - ⚡ Fun fact: I used analytics to plan my games
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=plastic&logo=Gmail&logoColor=red)](bentkt94@gmail.com) 
 
 ## Skills & Experience
 * Data & Statistical Analytics
