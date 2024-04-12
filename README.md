@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem94bnExdTExeDNvdmNnMjhjOTV1dWJkdmx2OWx2MmZmNm02NThpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ben-tan-88940a182/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/ben.tan2827/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sleazism">
+    <img src="https://img.shields.io/badge/HackerRank-olivegreen?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+</div>
+
 Hi 👋 My name is Ben
 ## Process Engineer | Data Scientist
 7+ years of engineering education have shaped me into a systematic, inquisitive, and philosophical thinker. 
