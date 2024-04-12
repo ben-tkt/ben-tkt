@@ -58,6 +58,9 @@ With courage and insights from a diverse background, I seek to continue gaining 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="60" height="60"/>&nbsp;
+  <img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png" title="Apache Kafka" alt="Apache Kafka" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="60" height="60"/>&nbsp; 
 </div>
 
 <h3 align="left">Python Libraries:</h3>
@@ -70,13 +73,6 @@ With courage and insights from a diverse background, I seek to continue gaining 
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="60" height="60"/>&nbsp;
-</div>
-
-<h3 align="left">Big Data Technology:</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="60" height="60"/>&nbsp;
-  <img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png" title="Apache Kafka" alt="Apache Kafka" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="60" height="60"/>&nbsp; 
 </div>
 
 <br/>
