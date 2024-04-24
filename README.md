@@ -9,8 +9,12 @@
   <a href="https://public.tableau.com/app/profile/ben.tan2827/vizzes">
     <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
+
   <a href="https://www.hackerrank.com/profile/sleazism">
     <img src="https://img.shields.io/badge/HackerRank-olivegreen?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://ben-tkt.github.io/">
+    <img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 
