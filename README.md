@@ -30,8 +30,8 @@ Confident in leadership, and yet humble in the journey of lifelong learning.
 
 With courage and insights from a diverse background, I seek to continue gaining wisdom, become a positive impact to those around me, and make the world a better place.
 
-- 🔭 I’m working as a Process Engineer in the pharmaceutical industry  
-- 🌱 I’m currently learning deep learning hyperparameter tuning 
+- 🔭 I’m working as a Data Scientist in the Marine Industry
+- 🌱 I’m currently learning Rockset Databases 
 - 🤔 I’m looking for work opportunities involving Data Science
 - ⚡ Fun fact: I used analytics to plan my games
 - 📫 How to reach me: **bentkt94@gmail.com**
@@ -64,7 +64,8 @@ With courage and insights from a diverse background, I seek to continue gaining 
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="60" height="60"/>&nbsp;
   <img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png" title="Apache Kafka" alt="Apache Kafka" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="60" height="60"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="60" height="60"/>&nbsp;
+  <img src="https://pipedream.com/s.v0/app_1Z2hPM/logo/orig" title="Rockset Database" alt="Rockset Database" width="60" height="60"/>&nbsp;
 </div>
 
 <h3 align="left">Python Libraries:</h3>
@@ -77,6 +78,7 @@ With courage and insights from a diverse background, I seek to continue gaining 
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="60" height="60"/>&nbsp;
 </div>
 
 <br/>
