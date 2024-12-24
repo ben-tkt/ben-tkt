@@ -30,8 +30,8 @@ Confident in leadership, and yet humble in the journey of lifelong learning.
 
 With courage and insights from a diverse background, I seek to continue gaining wisdom, become a positive impact to those around me, and make the world a better place.
 
-- 🔭 I’m working as a Data Scientist in the Marine Industry
-- 🌱 I’m currently learning to work with multi-variate time series data
+- 🔭 I’m working as a IT Specialist in the Marine Industry
+- 🌱 I’m currently learning to work on Anomaly Detection models for multi-variate time series data
 - 🤔 I’m looking for networking opportunities with like-minded professionals
 - ⚡ Fun fact: I used analytics to plan my games
 - 📫 How to reach me: **bentkt94@gmail.com**
